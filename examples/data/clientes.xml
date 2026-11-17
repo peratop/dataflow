@@ -1,0 +1,5 @@
+<clientes>
+  <cliente><id>10</id><nome>Elisa Rocha</nome><email>ELISA@EXEMPLO.COM</email><idade>31</idade></cliente>
+  <cliente><id>11</id><nome>Fabio Neto</nome><email>fabio@exemplo.com</email><idade>16</idade></cliente>
+  <cliente><id>12</id><nome>Gisele Prado</nome><email>Gisele@Exemplo.com</email><idade>52</idade></cliente>
+</clientes>
