@@ -11,7 +11,7 @@ Você descreve o fluxo **Source → Steps → Sink** e a DataFlow executa. Já v
 
 ## Vídeo de apresentação
 
-▶️ **https://www.youtube.com/watch?v=COLOQUE_O_LINK_AQUI**
+https://youtu.be/qszAKusbWm4?is=a02ctpI9AVKq0QjS
 
 ## Problema que resolve
 
